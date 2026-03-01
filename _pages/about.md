@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trolley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**DA-VPC: Disturbance-Aware Visual Predictive Control Scheme of Docking Maneuvers for Autonomous Trolley Collection** [**[Arxiv]**](https://arxiv.org/abs/2509.07413) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yuhan Pang**, Bingyi Xia, Zhe Zhang, Zhirui Sun, Peijia Xie, Bike Zhu,  Wenjun Xu and Jiankun Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+This project develops a service robot system for autonomous collection and transportation of airport trolleys. The docking task is formulated as an image-based visual servoing (IBVS) problem. A Model Predictive Control (MPC) scheme is developed under nonholonomic and camera field-of-view constraints, together with an Extended State Observer (ESO) for disturbance estimation and compensation. Real-world experiments demonstrate an average docking error of 1.69 cm using a purely vision-based approach.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 </div><img src='images/robio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning-Guided Risk-Adaptive MPC with Control Barrier Functions for Safe Navigation in Uncertain Dynamic Environments** [**[Website]**](https://sites.google.com/view/ra-mpc-cbf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025)
+
+Zhirui Sun, Siyuan Wang, **Yuhan Pang**, Xinyi Wang and Jiankun Wang
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025* Best Student Paper Award, IEEE ROBIO (3rd Author)
+- *2023.12* **National Third Prize, National Engineering Innovation Training Competition (Team Leader)**
+- *2022.08* **National First Prize, National Mechanical Innovation Design Competition Patent: CN115211254A (Team Leader)**
+- *2023.07* Provincial Second Prize, China University Intelligent Robot Creative Competition
+- *2023.07* Provincial Third Prize, Robocom Robotics Developer Competition
+- *2022.07* Provincial Third Prize, Embedded Chip and System Design Competition
+- *2022.05* Regional Finalist, RoboMaster Robotics Competition
+- *2022* Project leader, National Undergraduate Innovation Program
+
+# 💬 Academic Services
+
+Reviewer of:
+
+- IEEE Robotics and Automation Letters (RAL)
+- IEEE Transactions on Automation Science and Engineering (TASE)
+- IEEE International Conference on Robotics and Automation (ICRA)
+- International Conference on Biomimetic Intelligence and Robotics (ICBIR)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 – 2027.06 (Expected)*  
+  **Southern University of Science and Technology (SUSTech)**  
+  M.S. in Electronic Science and Technology  
+  Department of Electronic and Electrical Engineering
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.09 – 2024.06*  
+  **Wuhan University of Technology (WHUT)**  
+  B.E. in Measurement and Control Technology and Instrumentation  
+  School of Mechanical and Electronic Engineering
