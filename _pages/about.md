@@ -22,9 +22,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trolley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DA-VPC: Disturbance-Aware Visual Predictive Control Scheme of Docking Maneuvers for Autonomous Trolley Collection** [**[Arxiv]**](https://arxiv.org/abs/2509.07413) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**DA-VPC: Disturbance-Aware Visual Predictive Control Scheme of Docking Maneuvers for Autonomous Trolley Collection** [**[arXiv]**](https://arxiv.org/abs/2509.07413) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-**Yuhan Pang**, Bingyi Xia, Zhe Zhang, Zhirui Sun, Peijia Xie, Bike Zhu,  Wenjun Xu and Jiankun Wang
+**Yuhan Pang**, Bingyi Xia, Zhe Zhang, Zhirui Sun, Peijia Xie, Bike Zhu, Wenjun Xu and Jiankun Wang
 
 This project develops a service robot system for autonomous collection and transportation of airport trolleys. The docking task is formulated as an image-based visual servoing (IBVS) problem. A Model Predictive Control (MPC) scheme is developed under nonholonomic and camera field-of-view constraints, together with an Extended State Observer (ESO) for disturbance estimation and compensation. Real-world experiments demonstrate an average docking error of 1.69 cm using a purely vision-based approach.
 </div>
