@@ -22,7 +22,11 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/trolley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DA-VPC: Disturbance-Aware Visual Predictive Control Scheme of Docking Maneuvers for Autonomous Trolley Collection** [**[arXiv]**](https://arxiv.org/abs/2509.07413) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**DA-VPC: Disturbance-Aware Visual Predictive Control Scheme of Docking Maneuvers for Autonomous Trolley Collection** 
+
+[**[Video]**](https://www.youtube.com/watch?v=eMAAU_xOWeM) 
+[**[Paper]**](https://arxiv.org/abs/2509.07413) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 **Yuhan Pang**, Bingyi Xia, Zhe Zhang, Zhirui Sun, Peijia Xie, Bike Zhu, Wenjun Xu and Jiankun Wang
 
@@ -33,7 +37,11 @@ This project develops a service robot system for autonomous collection and trans
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 </div><img src='images/robio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Learning-Guided Risk-Adaptive MPC with Control Barrier Functions for Safe Navigation in Uncertain Dynamic Environments** [**[Website]**](https://sites.google.com/view/ra-mpc-cbf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Learning-Guided Risk-Adaptive MPC with Control Barrier Functions for Safe Navigation in Uncertain Dynamic Environments** 
+
+[**[Website]**](https://sites.google.com/view/ra-mpc-cbf) 
+[**[Paper]**](https://ieeexplore.ieee.org/document/11376316)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025)
 
