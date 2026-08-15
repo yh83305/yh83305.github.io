@@ -34,6 +34,20 @@ This project develops a service robot system for autonomous collection and trans
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/mpac-pushing.png' alt="Robot cart-pushing planning and adaptive control" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Integrating Maneuverable Planning and Adaptive Control for Robot Cart-Pushing under Disturbances**
+
+[**[Website]**](https://sites.google.com/view/mpac-pushing/)
+[**[Paper]**](https://arxiv.org/abs/2506.18410)
+
+Zhe Zhang, Peijia Xie, **Yuhan Pang**, Zhirui Sun, Bingyi Xia, Bi-Ke Zhu and Jiankun Wang
+
+This work presents a planning and control framework for robust, maneuverable robot cart-pushing. It combines whole-body motion planning with adaptive disturbance rejection, enabling a dual-arm mobile robot to generate flexible pushing poses and maintain accurate control under payload variations, friction, and other disturbances.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025 </div><img src='images/robio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,14 +76,14 @@ Zhirui Sun, Siyuan Wang, **Yuhan Pang**, Xinyi Wang and Jiankun Wang
 - *2022.05* Regional Finalist, RoboMaster Robotics Competition
 - *2022* Project leader, National Undergraduate Innovation Program
 
-# 💬 Academic Services
+<!-- # 💬 Academic Services
 
 Reviewer of:
 
 - IEEE Robotics and Automation Letters (RAL)
 - IEEE Transactions on Automation Science and Engineering (TASE)
 - IEEE International Conference on Robotics and Automation (ICRA)
-- International Conference on Biomimetic Intelligence and Robotics (ICBIR)
+- International Conference on Biomimetic Intelligence and Robotics (ICBIR) -->
 
 # 📖 Educations
 
